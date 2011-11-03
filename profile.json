@@ -1,0 +1,15 @@
+{
+  "settings" : {
+    "id" : "lyoshenka",
+    "name" : "Instant Class",
+    "IGNOREavatar" : "http://www.gravatar.com/avatar/98d92490cad64c8ff544b4ec3a0482cd?s=200",
+    "IGNOREdisqus_shortname" : "hackerhubtemplate",
+    "enable_search" : true
+  },
+  "content" : {
+    "class" : {
+      "title" : "Instant Class",
+      "content" : "https://raw.github.com/lyoshenka/hackerhub_site/master/content.html"
+    },
+  }
+}
